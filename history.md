@@ -12,7 +12,7 @@
  4065* yarn start
  4066* ls
  4067* npm i wagmi ethersi
-
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
 
 npm WARN deprecated safe-event-emitter@1.0.1: Renamed to @metamask/safe-event-emitter
 npm WARN deprecated eth-sig-util@1.4.2: Deprecated in favor of '@metamask/eth-sig-util'
